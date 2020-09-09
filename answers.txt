@@ -1,0 +1,3 @@
+It is easier to write an incorrect program than understand a correct one.
+1 1 2 3 5 8
+p 7 761
